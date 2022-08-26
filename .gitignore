@@ -1,0 +1,8 @@
+syntax: glob
+build.xml
+build
+dist
+nbproject
+manifest.mf
+src/it/bologna/ausl/proctonutils/test
+fonts/
